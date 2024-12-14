@@ -1,4 +1,4 @@
-3D Shape Transformation and Rendering Application
+# 3D Shape Transformation and Rendering Application
 Overview
 This is an interactive OpenGL-based application that allows users to manipulate 3D shapes through various transformations and camera controls. The project demonstrates advanced graphics programming techniques, including shape rendering, matrix transformations, and interactive user interfaces.
 
